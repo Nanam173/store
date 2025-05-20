@@ -27,8 +27,8 @@
 #       "yes": yup
 #       enabled: "ON"
 
-en:
-  hello: "Hello world"
+ja:
+  hello: "こんにちは、世界"
   products:
-      index:
-        title: "Products"
+    index:
+      title: "製品"
